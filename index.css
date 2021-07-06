@@ -17,6 +17,7 @@ perspective: 10000px;
 transform-style: preserve-3d;
 
 animation: roteTwoSide 5s linear infinite;
+cursor: pointer;
 }
 @keyframes roteTwoSide {
 0% {
